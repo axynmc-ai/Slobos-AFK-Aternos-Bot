@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FriendSMP-qasl.aternos.me:48627",
+    "ip": "FriendSMP-qasl.aternos.me",
     "port": 48627,
     "version": "",
     "try-creative": false
